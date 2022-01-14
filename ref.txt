@@ -1,7 +1,19 @@
+GIT TESTING
+
+
+
 git repository
+
+remote repository
+
+
 git status
+
 git branch
+
 git checkout
+
+
 git fetch
 git pull
 git revert
@@ -9,3 +21,4 @@ git revert
 add -> commit -> push
 
 https://meet.google.com/uev-quks-sor
+
